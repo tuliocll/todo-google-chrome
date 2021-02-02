@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![](preview.png)
+![](logo.jpg)
 
 </div>
 
-Este projeto foi utilizado como base para o tutorial que escrevi [aqui no dev.to]().
+### Este projeto foi utilizado como base para o tutorial que escrevi [aqui no dev.to, clique para ler](https://dev.to/tuliocalil/criando-extensoes-para-o-google-chrome-com-react-1laa).
 
 <hr/>
 
@@ -22,7 +22,7 @@ npm start
 
 ## 🔥 Gerando build
 
-Para gerar build e usar a extensão, consulte o post [aqui]().
+Para gerar build e usar a extensão, consulte o post [aqui](https://dev.to/tuliocalil/criando-extensoes-para-o-google-chrome-com-react-1laa).
 
 ## 🎯 Me siga
 
